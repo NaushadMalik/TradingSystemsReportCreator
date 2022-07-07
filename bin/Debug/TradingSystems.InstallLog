@@ -1,0 +1,300 @@
+﻿Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe assembly.
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Creating EventLog source SRV_TradingSystems in log Application...
+Rolling back assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Restoring event log to previous state for source SRV_TradingSystems.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Attempt to stop service SRV_TradingSystems.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.
+Installing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Installing service SRV_TradingSystems...
+Service SRV_TradingSystems has been successfully installed.
+Creating EventLog source SRV_TradingSystems in log Application...
+Committing assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Uninstalling assembly 'C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.InstallLog
+   assemblypath = C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+Removing EventLog source SRV_TradingSystems.
+Service SRV_TradingSystems is being removed from the system...
+Service SRV_TradingSystems was successfully removed from the system.

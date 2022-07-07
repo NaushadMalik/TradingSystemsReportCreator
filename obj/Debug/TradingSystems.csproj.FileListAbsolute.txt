@@ -1,0 +1,9 @@
+C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe.config
+C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.exe
+C:\Naushad Files\TradingSystems\bin\Debug\TradingSystems.pdb
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.csproj.AssemblyReference.cache
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.csproj.CoreCompileInputs.cache
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.exe
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.pdb
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.ProjectInstaller.resources
+C:\Naushad Files\TradingSystems\obj\Debug\TradingSystems.csproj.GenerateResource.cache
